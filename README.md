@@ -1,1 +1,4 @@
 # My_Portofolio
+Hello, I’m Sunil Gorantla . I earned a B. Tech graduation in the stream of Electrical and Electronics Engineering  from BALAJI INSTITUTE OF TECHNOLOGY AND SCIENCE COLLEGE. 
+I have a solid understanding of SQL,  Java, and data STRUCTURES, Java SpringBot JPA, SERVLETS and HTML CSS JAVA SCRIPT. I build a Project in My graduation on Voice Controlled Home Automation by using Ardinuo. We worked as a team of four, and our coding expertise allowed us to complete the job.
+I also have excellent communication skills, which I believe are crucial for this position, in addition to these technical talents. Because I’m constantly looking to learn new things and build novel project development strategies, I think my skill set is a fantastic fit for the goals of the organization. The company’s emphasis on work-life balance, which is mentioned in almost all AmbitionBox evaluations, is another factor that drew me to this role.
